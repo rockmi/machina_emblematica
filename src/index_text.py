@@ -12,7 +12,7 @@ import marqo as mq
 ## Connect to Marqo
 ##
 
-MARQO_URL = "http://92.112.48.13:8882"
+MARQO_URL = "ADD-URL"
 marqoClient = mq.Client(url=MARQO_URL)
 #pprint(marqoClient.get_indexes())
 
