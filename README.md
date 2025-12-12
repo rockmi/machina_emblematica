@@ -3,7 +3,10 @@ This repository contains code experiments done in context of the Machina Emblema
 
 ## Documentation
 **Multimodal Search Backend:** The */src* folder contains the code used to preprocess the images and texts (*image_metadata.py, extract_text_chunks.py*) and to index the multimodal contents with Marqo (*index_images.py, index_text.py*).
-**RAG System**: The Jupyter notebook (*Machina Emblematica Agentic RAG Tests.ipynb*) contains Python code experiments done in context of the Machina Emblematica project. Most of the workflow and logic were integrated into the browser tool, which can be tested here: [https://machina.rainersimon.io/](https://machina.rainersimon.io/). The sourcecode is available here: [https://github.com/rsimon/machina-emblematica](https://github.com/rsimon/machina-emblematica).
+
+**RAG System**: The Jupyter notebook (*Machina Emblematica Agentic RAG Tests.ipynb*) contains Python code experiments done in context of the Machina Emblematica project. Most of the workflow and logic were integrated into the browser tool, which can be tested here: [https://machina.rainersimon.io/](https://machina.rainersimon.io/).
+
+The sourcecode is available here: [https://github.com/rsimon/machina-emblematica](https://github.com/rsimon/machina-emblematica).
 
 ## Funding Acknowledgement
 This project received funding from the BMFTR joint project HERMES and the Furman Humanities Center.
